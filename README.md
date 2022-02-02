@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ellaidevs
+- 👋 Hi, I’m Ellai
 - 👀 I’m interested in web frontend technologies
-- 🌱 I’m currently learning React, Vue, UI/UX, Clean Code. 
-- 💞️ I’m looking to collaborate on any web-development projects.
+- 🌱 I’m actively exploring on Vue.js and other technologies associated with it. 
+- 💞️ I'm actively looking out for job opportunities related to Vue.js.
 - 📫 You can reach me at https://www.linkedin.com/in/ellai/
 
 <!---
