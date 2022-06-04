@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [ecommerce-product-react](https://ellai-ecommerce.netlify.app/)
 
-- 🌱 I’m currently learning **React, Redux, AWS Services, Vue**
+- 🌱 I’m currently developing on **React, Redux, AWS Services, Vue**
 
-- 📝 I regularly write articles on [https://dev.to/ellaidevs](https://dev.to/ellaidevs)
+- 📝 I'm currently writing articles on [https://dev.to/ellaidevs](https://dev.to/ellaidevs)
 
 - 💬 Ask me about **React, Vue, AWS, Firebase**
 
