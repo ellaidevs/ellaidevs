@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ecommerce-product-react](https://ellai-ecommerce.netlify.app/)
 
-- 🌱 I’m currently developing on **React, Redux, AWS Services, Vue**
+- 🌱 I’m currently developing on *React, Redux, AWS Services, Vue**
 
 - 📝 I'm currently writing articles on [https://dev.to/ellaidevs](https://dev.to/ellaidevs)
 
