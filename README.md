@@ -3,7 +3,7 @@
 
 - 🔭 I’m actively using https://gitlab.com/ellaidevs for future projects. 
 
-- 🌱 I’m currently developing on *React, Redux, Next.Js, Firebase*
+- 🌱 I’m currently developing on *React, Redux, Next.Js, AWS*
 
 - 📝 I'm currently writing articles on [https://dev.to/ellaidevs] (https://dev.to/ellaidevs)
 
