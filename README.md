@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ellaidevs&label=Profile%20views&color=0e75b6&style=flat" alt="ellaidevs" /> </p>
 
-- 🔭 I’m currently working on public portal for policy enforcement. 
+- 🔭 I’m currently working on to be announced. 
 
 - 📫 How to reach me **https://www.linkedin.com/in/ellai/**
 
