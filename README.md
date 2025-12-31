@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ellaiyarasan</h1>
-<h3 align="center">I’m a Project Manager with a software development background, passionate about exploring new technologies and driving business value through effective delivery.</h3>
+<h3 align="center">I’m a Project Manager by profession and a software engineer by passion, driven to explore new technologies and deliver meaningful business value.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ellaidevs&label=Profile%20views&color=0e75b6&style=flat" alt="ellaidevs" /> </p>
 
-- 🔭 I’m currently working on my personal fitness tracking application. 
+- 🔭 I’m currently building a personal fitness tracking application focused on habit-forming behaviors, with plans to publish it soon. (Main Stack: Supabase, Next16 - PWA, Typescript)   
 
 - 📫 How to reach me **https://www.linkedin.com/in/ellai/**
 
