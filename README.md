@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ellaiyarasan</h1>
 <h3 align="center">I’m a Project Manager by profession and a software engineer by passion, driven to explore new technologies and deliver meaningful business value.</h3>
+<h4>I’ve engineered and delivered software solutions for global automotive brands including Porsche, BMW, Audi, and Volkswagen, and currently manage digital banking projects at Maybank, one of Southeast Asia’s largest financial institutions.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ellaidevs&label=Profile%20views&color=0e75b6&style=flat" alt="ellaidevs" /> </p>
 
